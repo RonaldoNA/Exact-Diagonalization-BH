@@ -1,4 +1,4 @@
-# BoseHubbardDiagonalize
+# Bose-Hubbard Exact Diagonalization
 
 This is a Julia exact diagonalization code for the [Bose-Hubbard model](https://en.wikipedia.org/wiki/Bose%E2%80%93Hubbard_model) showing the variance and condensate fraction in the model.
 
